@@ -6,4 +6,4 @@ Truns "LastName, FirstName" into "FirstName LastName"
 
 #Example
 
-Calling "rearrange("jasiwal, Pratyush") will return "Pratyush Jaiswal"
+Calling "rearrange("jasiwal, Pratyush") will return "Pratyush Jaiswal"Calling "rearrange("jasiwal, Apurva") will return "Apurva Jaiswal"
